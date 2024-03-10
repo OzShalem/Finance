@@ -29,7 +29,7 @@ export const router = createBrowserRouter([
         element: <CompanyPage />,
         children: [
           {
-            path: "comapny-profile",
+            path: "company-profile",
             element: <CompanyProfile />,
           },
           {
